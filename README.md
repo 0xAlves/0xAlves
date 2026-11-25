@@ -63,7 +63,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidalves04&show_icons=true&theme=dark" alt="David's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xAlves&show_icons=true&theme=dark" alt="David's GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalves04&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAlves&layout=compact&theme=dark" alt="Top Languages" />
 </p>
